@@ -1,7 +1,7 @@
 self.__precacheManifest = [
   {
-    "revision": "326328fb827dd61b54bc",
-    "url": "/cc-vk-schedule-app/static/js/main.4795f397.chunk.js"
+    "revision": "391c11c01f7224b68737",
+    "url": "/cc-vk-schedule-app/static/js/main.b45f26fc.chunk.js"
   },
   {
     "revision": "ae52b544b0d910475772",
@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/cc-vk-schedule-app/static/js/2.d314296d.chunk.js"
   },
   {
-    "revision": "32896cf99444f96dd2c076e4bef8b5c7",
+    "revision": "01fa8279ce3abd6226611ac2773cddbb",
     "url": "/cc-vk-schedule-app/index.html"
   }
 ];
